@@ -30,4 +30,5 @@ Implemente uma aplicação utilizando React que consuma a [AniList APIv2](https:
 
 ## Observações
 
-Lembrando que não é obrigatório aplicar todos os itens descritos acima, não deixe de enviar o resultado do seu teste.
+- Após finalizar o projeto, mande o link do repositório para contact@co3d.art;
+- Lembrando que não é obrigatório aplicar todos os itens descritos acima, não deixe de enviar o resultado do seu teste.
